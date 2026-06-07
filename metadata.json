@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Funnel Bot Hub",
+  "description": "Production-ready PHP & MySQL Telegram Funnel codebase with a high-fidelity interactive state machine simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
